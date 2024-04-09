@@ -55,4 +55,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgements
 Special thanks to the Angular team for providing an amazing framework for building web applications.
-
